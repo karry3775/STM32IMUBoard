@@ -1,0 +1,7 @@
+Part Description,MFR Part #," "" JLCPCB Part #""", Available Qty, Datasheet
+LDO (regulator),AMS1117-3.3,C347222,568803,
+STM32,STM32F103C8T6,C8734,29295,"file:///home/kartik/Downloads/stm32f103c8.pdf, file:///home/kartik/Downloads/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf"
+Mirco USB,MicroQTJ,C404968,14329,
+IMU,MPU-6050,C24112,3416,file:///home/kartik/Downloads/MPU-6050.pdf
+16MHz crystal,X49SM16MSB2SC,C110562,1327,
+30pf capacitor,TCC1206COG300J500DT,C282791,4207,
